@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Greeting</title>
+  <script>
+    window.onload = function() {
+      alert("✨ Welcome! Enjoy your visit! ✨");
+    }
+  </script>
+</head>
+<body>
+<h1>Hello!</h1>
+<p>We are delighted to have you here. Explore our website and let us know if you need any assistance. Have a wonderful day!</p>
+</body>
+</html>
